@@ -119,3 +119,6 @@ eval "$(rbenv init -)"
 
 # caps -> ctrl
 setxkbmap -option ctrl:nocaps
+
+# default visual editor
+export VISUAL="vim"
